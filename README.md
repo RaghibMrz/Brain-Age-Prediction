@@ -13,3 +13,5 @@ Once you have done that and activated the virtual environment, run the following
 - `python script_plain.py`
 
 The second command should launch an interactive tkinter window which allows you to choose a file, please choose an appropriate volume file returned from a SynthSeg segmentation.
+
+The demos folder contains some SynthSeg volume which you can use to trial the code.
